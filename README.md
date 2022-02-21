@@ -1,6 +1,5 @@
-Hi! im Max
+# Hi! My name is Max!
+I am a random coder on internet, im also a furry!
 
-i do C# code
-
-
-if you really want to talk to me, here my discord: Max™#2777
+# Projects That Im Working On
+None for now :pensive:
